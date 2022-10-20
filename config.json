@@ -2,9 +2,8 @@
     "title": "Title",
     "media": [
         {
-            "file": "Placeholder",
+            "file": "trailer.wav",
             "type": "audio",
-            "info": "",
             "feature": true,
             "title": "Trailer"
         },
@@ -21,7 +20,7 @@
             "title": "Placeholder"
         }
     ],
-    "cover": "Image",
+    "cover": "Image.png",
     "theme": {
         "titleStyle": "none",
         "backgroundColor": "#04003d",
