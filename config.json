@@ -1,0 +1,45 @@
+{
+    "title": "Title",
+    "media": [
+        {
+            "file": "trailer.wav",
+            "type": "audio",
+            "feature": true,
+            "title": "Trailer"
+        },
+        {
+            "file": "intro.wav",
+            "type": "audio",
+            "info": "<p>the intro for the podcast</p>",
+            "title": "Intro"
+        },
+        {
+            "file": "Y3CUQBV-nature-rain.mp3",
+            "type": "audio",
+            "info": "<p><span style=\"display: inline !important;\">just a placeholder, this is how the track will look like</span><br></p>",
+            "title": "Placeholder"
+        }
+    ],
+    "cover": "Image.png",
+    "theme": {
+        "titleStyle": "none",
+        "backgroundColor": "#04003d",
+        "primaryColor": "#bdcfff",
+        "primaryAltColor": "#6e7894",
+        "secondaryColor": "#04003d",
+        "highlightColor": "#001026",
+        "primaryTextColor": "#9faed6",
+        "primaryAltTextColor": "#675483",
+        "previewStripeColor1": "#3f3f3f",
+        "previewStripeColor2": "#2c2c2c",
+        "linkColor": "#0d0083",
+        "layoutStyle": "vertical",
+        "infoStyle": "overlaid",
+        "contentWidth": "460",
+        "coverSize": "482",
+        "nativePlayer": false,
+        "customCSS": ""
+    },
+    "description": "",
+    "loopModeDefault": "none"
+}
